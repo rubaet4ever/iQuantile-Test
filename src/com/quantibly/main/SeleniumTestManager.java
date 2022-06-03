@@ -43,7 +43,7 @@ import org.openqa.selenium.remote.ProtocolHandshake;
 	
 	//WebDriver driver = getFirefoxDriver(SERVER_URL); 
 	
-    //Rubaet // SQA Engineer
+   
 
 	
 
